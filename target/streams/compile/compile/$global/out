@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/hector/tmp/lift/foro/param/src/main/scala/code/snippet/Profile.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/UserName$.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$render$1$$anonfun$apply$1.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$2.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$render$1.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/UserName.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$1.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$render$2.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile.class, /home/hector/tmp/lift/foro/param/target/scala-2.10/classes/code/snippet/Profile$$anonfun$3.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/hector/tmp/lift/foro/param/src/main/scala/code/snippet/Profile.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/hector/tmp/lift/foro/param/src/main/scala/code/snippet/Profile.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/hector/tmp/lift/foro/param/src/main/scala/code/snippet/Profile.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/hector/tmp/lift/foro/param/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 19642459, interfacing (CompilerInterface) with Scala compiler version 2.10.0[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/hector/tmp/lift/foro/param/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/hector/.sbt/boot/scala-2.10.0/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/hector/tmp/lift/foro/param/target/scala-2.10/classes:/home/hector/.ivy2/cache/net.liftweb/lift-webkit_2.10/jars/lift-webkit_2.10-2.5.1.jar:/home/hector/.ivy2/cache/net.liftweb/lift-util_2.10/jars/lift-util_2.10-2.5.1.jar:/home/hector/.ivy2/cache/net.liftweb/lift-actor_2.10/jars/lift-actor_2.10-2.5.1.jar:/home/hector/.ivy2/cache/net.liftweb/lift-common_2.10/jars/lift-common_2.10-2.5.1.jar:/home/hector/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.2.jar:/home/hector/.ivy2/cache/net.liftweb/lift-json_2.10/jars/lift-json_2.10-2.5.1.jar:/home/hector/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.10.0.jar:/home/hector/.sbt/boot/scala-2.10.0/lib/scala-compiler.jar:/home/hector/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar:/home/hector/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.4.1.jar:/home/hector/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.1.jar:/home/hector/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar:/home/hector/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.6.jar:/home/hector/.ivy2/cache/javax.mail/mail/jars/mail-1.4.4.jar:/home/hector/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar:/home/hector/.ivy2/cache/nu.validator.htmlparser/htmlparser/bundles/htmlparser-1.4.jar:/home/hector/.ivy2/cache/commons-fileupload/commons-fileupload/jars/commons-fileupload-1.2.2.jar:/home/hector/.ivy2/cache/org.scala-lang/scala-actors/jars/scala-actors-2.10.0.jar:/home/hector/.ivy2/cache/net.liftmodules/lift-jquery-module_2.5_2.10/jars/lift-jquery-module_2.5_2.10-2.4.jar:/home/hector/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.6.jar:/home/hector/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.0.6.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.668828659 s[0m
+[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
+[0m[[0mdebug[0m] [0m	[0m
+[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
